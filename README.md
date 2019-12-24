@@ -7,8 +7,10 @@ from a color grid looking at the RGB color string given.
 
 1.fork the Repository.<br>
 2.Use the git clone command on the terminal.<br>
-         or <br>
+                   or <br>
  directly download the Zip file from-https://github.com/BirajGupta/Color-Game-/archive/master.zip   <br> 
  <br>
+3.open the colorchange.html file sublime, VS code or any other text editor<br>
+4.Right click and click on "open in browser" or similar command.<br>
 Try to add more functionality,more styling.
      
